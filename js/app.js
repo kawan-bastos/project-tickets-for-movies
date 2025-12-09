@@ -1,4 +1,4 @@
-let gustavo = 0;
+
 
 function comprar() {
     let tipoIngresso = document.getElementById("tipo-ingresso").value;
